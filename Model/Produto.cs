@@ -72,9 +72,11 @@ namespace PROJETO_MVC.Model
         // inserir um produto no arquivo csv
         public void Inserir(Produto p)
         {
-            
+            // array que vai armazenar as linhas(cada "objeto")
+            string[] linhas = {PrepararLinhasCSV(p)};
+
+            //vai ate o arquivo e insere todas as linhas
+            File.AppendAllLines(PATH, linhas);
         }
-
-
     }
 }

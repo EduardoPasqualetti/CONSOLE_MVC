@@ -18,5 +18,14 @@ namespace PROJETO_MVC.Controller
             produtoView.Listar(produtos);
 
         }
+
+        public void CadastrarProduto()
+        {
+            //novo objeto que recebe cada objeto da view a ser inserido no csv
+            Produto novoProduto = produtoView.Cadastrar();
+
+            // chamada para a model para inserir esse objeto no csv
+            produto.Inserir(novoProduto);
+        }
     }
 }
