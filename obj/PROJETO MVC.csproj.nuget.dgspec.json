@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\49802002810\\Desktop\\PROJETO MVC\\PROJETO MVC.csproj": {}
+    "C:\\Users\\49802002810\\Desktop\\CONSOLE_MVC\\PROJETO MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\49802002810\\Desktop\\PROJETO MVC\\PROJETO MVC.csproj": {
+    "C:\\Users\\49802002810\\Desktop\\CONSOLE_MVC\\PROJETO MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\49802002810\\Desktop\\PROJETO MVC\\PROJETO MVC.csproj",
+        "projectUniqueName": "C:\\Users\\49802002810\\Desktop\\CONSOLE_MVC\\PROJETO MVC.csproj",
         "projectName": "PROJETO MVC",
-        "projectPath": "C:\\Users\\49802002810\\Desktop\\PROJETO MVC\\PROJETO MVC.csproj",
+        "projectPath": "C:\\Users\\49802002810\\Desktop\\CONSOLE_MVC\\PROJETO MVC.csproj",
         "packagesPath": "C:\\Users\\49802002810\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\49802002810\\Desktop\\PROJETO MVC\\obj\\",
+        "outputPath": "C:\\Users\\49802002810\\Desktop\\CONSOLE_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\49802002810\\AppData\\Roaming\\NuGet\\NuGet.Config",

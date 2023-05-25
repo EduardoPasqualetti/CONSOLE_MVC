@@ -16,6 +16,7 @@ namespace PROJETO_MVC.Controller
 
             // chamado o metodo do View recebendo o argumento da lista a cima como parametro
             produtoView.Listar(produtos);
+
         }
     }
 }
